@@ -1,0 +1,162 @@
+.hero-image{
+    width:100%; 
+    height:100%;
+    background: url(/assets/Homepage-banner_01.png) center center no-repeat;
+}
+.logo{
+    float: left;
+}
+body {
+  background-color: #f8f8f8;
+}
+.jumbotron p{
+    color: white;
+    margin: auto 0;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    color: white;
+    margin-top: 140px;
+}
+.jumbotron{
+    padding-top:30px;
+    border-radius: 0; 
+}
+.button-margin{
+    margin: 50px;
+}
+.white-text{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+h2 {
+    color:#0069D9;
+}
+.margin-100{
+    margin:100px 0 100px 0;
+}
+.mid-headline{
+    text-align: center;
+    width: 100%;
+    margin:100px 0 100px 0;
+}
+.care-plus{
+    background: url(/assets/Homepage_03-02.png);
+    text-align: center;
+    padding: 100px 30px;
+    margin: 10px;
+}
+.survival-guide{
+    background: url(/assets/Homepage_03.png);
+    text-align: center;
+    padding: 100px 30px;
+    margin: 10px;
+}
+.white-back{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+.under-image-text{
+    border-radius:100% 100% 0 0;
+    line-height: 60px;
+    z-index: 10;
+    color: white;
+    font-weight: bold;
+}
+.cough{
+    background: url(/assets/Homepage_03-1.png);
+    z-index: 1;
+}
+.cough-text{
+    background-color: lightblue;
+}
+.cold{
+    background: url(/assets/Homepage_03-02-1.png);
+}
+.cold-text{
+    background-color: blue;
+}
+.pain{
+    background: url(/assets/Homepage_03-03.png);
+}
+.pain-text{
+    background-color: orange;
+}
+.skincare{
+    background: url(/assets/Homepage_03-04.png);    
+}
+.skin-text{
+    background-color: pink;
+}
+.stomach{
+    background: url(/assets/Homepage_03-05.png);     
+}
+.stomach-text{
+    background-color: green;
+}
+.infant{
+    background: url(/assets/Homepage_03-06.png);     
+}
+.infant-text{
+    background-color: palevioletred;
+}
+.female{
+    background: url(/assets/Homepage_03-07.png);     
+}
+.female-text{
+    background-color: bisque;
+}
+.other{
+    background: url(/assets/Homepage_03-08.png); 
+}
+.other-text{
+    background-color: purple;   
+}
+
+footer{
+    background-color: lightgrey;
+}
+footer h4{
+    color: grey;
+    padding-top: 40px;
+    font-size: 18px;
+}
+footer p{
+    margin: 10px;
+    color: grey;
+    font-size: 12px;
+}
+.small-footer-text{
+    margin: 10px;
+    color: grey;
+    font-size: small;
+    margin: 30px 0;
+}
+
+.mid-section{
+    width:100%; 
+    height:600px;
+    background: url(/assets/Homepage-menu-pain_02.png) center center no-repeat;
+}
+.overlay-container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.mid-section-overlay{
+    text-align:center;
+    margin-top: -100px;
+    height: 200px;
+    background-color: lightblue;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+
+
+
+
