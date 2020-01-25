@@ -68,28 +68,28 @@
     
 <div class="container text-center">
   <div class="row">
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="cough">
             <img src="assets/prod_cat_07.png" height="220px">
             <p class="cough-text under-image-text">Cough</p>
         </div>      
     </div>
     
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="cold">
             <img src="assets/prod_cat_16.png" height="220px">
             <p class="cold-text under-image-text">Cold & Flu</p>
         </div>      
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="pain">
             <img src="assets/prod_cat_13.png" height="220px">
             <p class="pain-text under-image-text">Pain Relief</p>
         </div>
     </div>
       
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="skincare">
             <img src="assets/prod_cat_10.png" height="220px">
             <p class="skin-text under-image-text">Skincare</p>
@@ -97,28 +97,28 @@
     </div>
   </div>
       <div class="row">
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="stomach">
             <img src="assets/prod_cat_26.png" height="220px">
             <p class="stomach-text under-image-text">Stomach & Bowel</p>
         </div>      
     </div>
     
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="infant">
             <img src="assets/prod_cat_29.png" height="220px">
             <p class="infant-text under-image-text">Infant & Junior</p>
         </div>      
     </div>
 
-    <div class="col-sm-3">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="female">
             <img src="assets/prod_cat_32.png" height="220px">
             <p class="female-text under-image-text">Female</p>
         </div>
     </div>
       
-    <div class="col-sm-3 ">
+    <div class="col-xs-6 col-sm-6 col-md-3">
         <div class="other">
             <img src="assets/prod_cat_23.png" height="220px">
             <p class="other-text under-image-text">Other</p>
@@ -136,11 +136,11 @@
 <footer>
     <div class="container">
         <div class="row">
-                <div class="col-sm-3 ">
+                <div class="col-sm-6 col-md-3">
                     <h4><img src="assets/logo.png" width="100px"></h4>
                     <p>text</p>
                 </div>
-                <div class="col-sm-3 ">
+                <div class="col-sm-6 col-md-3">
                     <h4>Our Ranges</h4>
                     <p>Links</p>
                     <p>Links</p>
@@ -148,14 +148,14 @@
                     <p>Links</p>
                     
                 </div>
-                <div class="col-sm-3 ">
+                <div class="col-sm-6 col-md-3">
                     <h4>A little care from us</h4>
 
                     <p>Links</p>
                     <p>Links</p>
                     <p>Links</p>
                 </div>
-                <div class="col-sm-3 ">
+                <div class="col-sm-6 col-md-3">
                     <h4>Stay in touch</h4>
                     <p>Social Icons</p>
                     <p>Links</p>
@@ -168,10 +168,10 @@
     </div>
     <div class="container">
         <div class="row">
-                <div class="col-sm-6 ">
+                <div class="col-xs-12 col-sm-6 ">
                     <p class="small-footer-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
                 </div>
-                <div class="col-sm-6 ">
+                <div class="col-xs-12 col-sm-6 ">
                     <p class="small-footer-text">Lorem | ipsum | dolor | sit | amet | <a href="/">Link</a> </p>
                 </div>
             
